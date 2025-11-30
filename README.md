@@ -9,7 +9,8 @@ A focused exploratory data analysis of a global YouTube channels dataset to unde
 
 - [Overview]
 - [What this project covers]
-- [Tech stack](#tech-stack)
+- [Tech stack]
+
 ---
 
 ## Overview
