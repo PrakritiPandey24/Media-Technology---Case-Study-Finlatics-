@@ -1,4 +1,3 @@
-# Media-Technology---Case-Study-Finlatics
 
 # Media and Technology — Exploratory Data Analysis
 
