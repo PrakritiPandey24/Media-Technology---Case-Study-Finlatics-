@@ -8,18 +8,9 @@ A focused exploratory data analysis of a global YouTube channels dataset to unde
 
 ## Table of contents
 
-- [Overview](#overview)
-- [What this project covers](#what-this-project-covers)
-- [Key questions answered](#key-questions-answered)
-- [Dataset](#dataset)
+- [Overview]
+- [What this project covers]
 - [Tech stack](#tech-stack)
-- [Getting started](#getting-started)
-- [How to run the analysis](#how-to-run-the-analysis)
-- [Results and visuals](#results-and-visuals)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## Overview
